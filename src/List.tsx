@@ -72,7 +72,7 @@ const Row: React.FC<{ produce: Produce }> = ({ produce }) => {
         fontSize="xs"
         textTransform="uppercase"
         letterSpacing="0.1em"
-        minW="10rem"
+        minW="7.5rem"
         textAlign="right"
       >
         {imported && 'Imported'}
