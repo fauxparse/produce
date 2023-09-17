@@ -1,0 +1,4412 @@
+[
+  {
+    "name": "Artichoke - Globe",
+    "group": "Vegetables",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Artichoke - Jerusalem",
+    "group": "Vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Asparagus",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "limited.local",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Beans - Round",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "limited.local",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "limited.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Beans - Broad",
+    "group": "Vegetables",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Beetroot",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Beetroot - Baby",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Beetroot - Golden",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Bok Choy - Chinese Shanghai",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Broccoli",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Broccolini - Slender Stems",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Brussel Sprouts",
+    "group": "Vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Cabbage",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Cabbage - Red",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Cabbage - Savoy",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Capsicum - Red",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Capsicum - Green",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Capsicum - Mini (Pkt)",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Capsicum - Yellow",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Carrot - Orange Table",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Carrot - Orange Jumbo",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Carrot - Orange Baby",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Carrot - Purple Baby",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Carrot - White Baby",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Carrot - Yellow Baby",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Cauliflower",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Caulini - Cauliflower Stems",
+    "group": "Vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Celery",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Celeriac",
+    "group": "Vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Chilli - Green",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Chilli - Red",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Chestnut",
+    "group": "Vegetables",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Choko",
+    "group": "Vegetables",
+    "months": {
+      "mar": "unavailable",
+      "apr": "limited.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Courgette - Local",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Courgette - Imported",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "limited.imported",
+      "aug": "limited.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Cucumber - Lebanese",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Cucumber - Mini (Snacking)",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Cucumber - Telegraph",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Eggplant",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Eggplant - Asian Long",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Fennel - Bulb Baby",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Fennel - Bulb Large",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Garlic - Nz",
+    "group": "Vegetables",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "limited.local",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Garlic - Black",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Garlic - Imported",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Ginger - Imported",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Kale - Baby Blend",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Kale - Cavolo Nero",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Kale - Curly",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Kholrabi",
+    "group": "Vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Kumara - Red",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Kumara - Gold",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Kumara - Orange (Beauregard)",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Leek",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Leek - Baby",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Lettuce - Baby Cos",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Lettuce - Butterhead",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Lettuce - Crunchita",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Lettuce - Green Oak",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Lettuce - Iceberg",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Lettuce - Lollo Biondi",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Lettuce - Lollo Rosso",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Lettuce - Salad Mix",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "limited.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Lettuce - Red Oak",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Mesclun",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Mushroom - Field (Portobello)",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Mushroom - Button Market Mix",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Mushroom - Button White",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Mushroom - Swiss Brown",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Mushroom - Oyster",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Mushroom - Shiitake",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Mushroom - Enoki",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Onion - Brown",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Onion - Brown Pickling",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Onion - Red",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Onion - Red Pickling",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Palermo Peppers - Red",
+    "group": "Vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Palermo Peppers - Yellow",
+    "group": "Vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Parsnip",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Peas - Fresh Garden",
+    "group": "Vegetables",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "limited.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Potato - Agria",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Potato - Agria Gourmet",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Potato - Golden Gourmet",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Potato - Jersey Benne",
+    "group": "Vegetables",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Potato - Nadines (White Washed)",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Potato - Perla",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Potato - Red",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Potato - Red Gourmet",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Potato - White Gourmet",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Pumpkin - Crown",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "limited.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Pumpkin - Butternut",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "limited.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Pumpkin - Buttercup",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "limited.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Radish",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Silverbeet",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Shallot",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Snow Pea",
+    "group": "Vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "limited.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Spinach",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Spinach - Baby",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Spring Onion",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Squash - Spaghetti",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Sugar Snaps",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Swede",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Sweetcorn",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "limited.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Sweetcorn - Baby",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Taro",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Tomato - 60/70",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Tomato - Red Cherry",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Tomato - Vine Large",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Tomato - Vine Small",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Tomato - Roma",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Turnip - Baby White",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Turnip - White",
+    "group": "Vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Witloof - Red",
+    "group": "Vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Witloof - White",
+    "group": "Vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Yam",
+    "group": "Vegetables",
+    "months": {
+      "mar": "unavailable",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Asparagus - Purple",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Asparagus - White",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Beetroot - Chioggia",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Broccoli - Romanesco",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Carrots - Purple Table",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Carrots - White Table",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Carrots - Yellow Table",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Cauliflower - Purple",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Chard - Rainbow/ Red/ Swiss",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "limited.local",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Choy Sum",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Courgette Flowers",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Horseradish Root",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Kailaan",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Kumara - Purple Dawn Large",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Kumara - Purple Dawn Baby",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Okra",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "limited.imported",
+      "apr": "limited.imported",
+      "may": "limited.imported",
+      "jun": "limited.imported",
+      "jul": "limited.imported",
+      "aug": "limited.imported",
+      "sep": "limited.imported",
+      "oct": "limited.imported",
+      "nov": "limited.imported",
+      "dec": "limited.imported",
+      "jan": "limited.imported",
+      "feb": "limited.imported"
+    }
+  },
+  {
+    "name": "Potato - Maori (Urenika, Moemoe, Kowiniwini)",
+    "group": "Specialty vegetables",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Apple - Ambrosia",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Apple - Braeburn",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Apple - Envy",
+    "group": "Fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "limited.local",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Apple - Granny Smith",
+    "group": "Fruits",
+    "months": {
+      "mar": "limited.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "limited.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Apple - Jazz",
+    "group": "Fruits",
+    "months": {
+      "mar": "limited.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "limited.local",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Apple - Royal Gala",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "limited.imported",
+      "jan": "limited.imported",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Apple - Sweet Tango",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Avocado",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Banana",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Cape Gooseberry",
+    "group": "Fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Cherimoya",
+    "group": "Fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Coconut - Whole (Drinking)",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Dates - Medjool",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Feijoa",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Fig",
+    "group": "Fruits",
+    "months": {
+      "mar": "limited.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Grapefruit - Imported",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Grapefruit - Nz",
+    "group": "Fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "limited.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Grapefruit - Pink",
+    "group": "Fruits",
+    "months": {
+      "mar": "limited.imported",
+      "apr": "limited.imported",
+      "may": "limited.imported",
+      "jun": "limited.imported",
+      "jul": "limited.imported",
+      "aug": "limited.imported",
+      "sep": "limited.imported",
+      "oct": "limited.imported",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "limited.imported",
+      "feb": "limited.imported"
+    }
+  },
+  {
+    "name": "Grapes - Red",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Grapes - Black",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "unavailable",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Grapes - Green",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Kiwifruit - Green",
+    "group": "Fruits",
+    "months": {
+      "mar": "limited.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Kiwifruit - Baby (Arguta)",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Kiwifruit - Gold",
+    "group": "Fruits",
+    "months": {
+      "mar": "limited.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.local",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Lemon - Meyer",
+    "group": "Fruits",
+    "months": {
+      "mar": "limited.imported",
+      "apr": "limited.imported",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "limited.imported",
+      "dec": "limited.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Lemon - Yen Ben Seedless",
+    "group": "Fruits",
+    "months": {
+      "mar": "limited.imported",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Lime",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Mandarin",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Mango",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "limited.local",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Melon - Honeydew",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Melon - Rockmelon",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Melon - Watermelon",
+    "group": "Fruits",
+    "months": {
+      "mar": "limited.local",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Orange - Valencia",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Orange - Navel",
+    "group": "Fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Orange - Imported",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Orange - Blood",
+    "group": "Fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Passionfruit",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Papaya (Paw Paw)",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Papaya (Paw Paw) - Green",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Pear - Brown",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "limited.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "limited.imported",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Pear - Green",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "limited.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Pear - Nashi",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Pear - Piqaboo",
+    "group": "Fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Persimmon",
+    "group": "Fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "limited.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "limited.local",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Pineapple - Gold",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "available.imported"
+    }
+  },
+  {
+    "name": "Pomegranate",
+    "group": "Fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "available.imported",
+      "dec": "available.imported",
+      "jan": "available.imported",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Rhubarb",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Tamarillo - Red",
+    "group": "Fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "limited.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "available.local",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Tamarillo - Golden",
+    "group": "Fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Tangelo",
+    "group": "Fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Blackberries",
+    "group": "Berries",
+    "months": {
+      "mar": "limited.local",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Blueberries",
+    "group": "Berries",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "limited.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Boysenberries",
+    "group": "Berries",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "available.local",
+      "dec": "limited.local",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Gooseberries",
+    "group": "Berries",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Raspberries",
+    "group": "Berries",
+    "months": {
+      "mar": "available.local",
+      "apr": "limited.local",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "limited.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Strawberries",
+    "group": "Berries",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Strawberries - Long Stem",
+    "group": "Berries",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Apricot",
+    "group": "Stone fruits",
+    "months": {
+      "mar": "available.imported",
+      "apr": "available.imported",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Cherries",
+    "group": "Stone fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "available.imported",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "available.imported",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Nectarine",
+    "group": "Stone fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "limited.local",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.imported",
+      "nov": "unavailable",
+      "dec": "limited.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Peach - Golden Queen",
+    "group": "Stone fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Peach - White",
+    "group": "Stone fruits",
+    "months": {
+      "mar": "limited.local",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Peach - Yellow",
+    "group": "Stone fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "unavailable",
+      "jun": "available.imported",
+      "jul": "available.imported",
+      "aug": "available.imported",
+      "sep": "available.imported",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Peacherine",
+    "group": "Stone fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "limited.local",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Plum - Doris",
+    "group": "Stone fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Plum - Omega (George Wilson)",
+    "group": "Stone fruits",
+    "months": {
+      "mar": "limited.local",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "limited.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Plum - Yellow",
+    "group": "Stone fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "limited.local",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Dragon Fruit (Pitaya)",
+    "group": "Specialty fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "unavailable",
+      "aug": "limited.imported",
+      "sep": "limited.imported",
+      "oct": "limited.imported",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Raspberries - Gold",
+    "group": "Specialty fruits",
+    "months": {
+      "mar": "limited.local",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Tomato - Black Cherry",
+    "group": "Specialty fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Tomato - Choctail",
+    "group": "Specialty fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Tomato - Mixed Coloured Cherry",
+    "group": "Specialty fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Tomato - Heirloom Mixed",
+    "group": "Specialty fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "limited.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Tomato - Little Horror",
+    "group": "Specialty fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "limited.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Tomato - Red Cherry",
+    "group": "Specialty fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Tomato - Spanish Green",
+    "group": "Specialty fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Tomato - Spanish Red",
+    "group": "Specialty fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Quince",
+    "group": "Specialty fruits",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Yuzu",
+    "group": "Specialty fruits",
+    "months": {
+      "mar": "unavailable",
+      "apr": "unavailable",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "limited.local",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "unavailable",
+      "nov": "unavailable",
+      "dec": "unavailable",
+      "jan": "unavailable",
+      "feb": "unavailable"
+    }
+  },
+  {
+    "name": "Edible Flowers - Calendula",
+    "group": "Specialty flowers",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Edible Flowers - Cornflower",
+    "group": "Specialty flowers",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Edible Flowers - Dianthus",
+    "group": "Specialty flowers",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Edible Flowers - Fairy Rose",
+    "group": "Specialty flowers",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Edible Flowers - Garlic/ Onion",
+    "group": "Specialty flowers",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Edible Flowers - Marigold",
+    "group": "Specialty flowers",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Edible Flowers - Nasturtium (Flowers Only)",
+    "group": "Specialty flowers",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Edible Flowers - Nasturtium (Leaves Only)",
+    "group": "Specialty flowers",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Edible Flowers - Pansy",
+    "group": "Specialty flowers",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Edible Flowers - Rose Petals",
+    "group": "Specialty flowers",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Edible Flowers - Viola",
+    "group": "Specialty flowers",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Angelica",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Basil",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Chervil",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Chives",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Coriander",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Curry Leaves",
+    "group": "Herbs",
+    "months": {
+      "mar": "limited.local",
+      "apr": "limited.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "limited.local",
+      "nov": "limited.local",
+      "dec": "limited.local",
+      "jan": "limited.local",
+      "feb": "limited.local"
+    }
+  },
+  {
+    "name": "Dill",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Fennel Fronds",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "French Tarragon",
+    "group": "Herbs",
+    "months": {
+      "mar": "limited.local",
+      "apr": "unavailable",
+      "may": "unavailable",
+      "jun": "unavailable",
+      "jul": "unavailable",
+      "aug": "unavailable",
+      "sep": "unavailable",
+      "oct": "limited.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Lemongrass",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Mint Tips",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Oregano",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Parsley - Curly",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Parsley - Italian",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Roquette (Baby Rocket)",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Rosemary",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Sage",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Thyme",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Vietnamese Mint",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "limited.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Watercress",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "limited.local",
+      "jul": "limited.local",
+      "aug": "limited.local",
+      "sep": "limited.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Kaffir Lime Leaves",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Bay Leaves",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  },
+  {
+    "name": "Sprouted Beans & Seeds",
+    "group": "Herbs",
+    "months": {
+      "mar": "available.local",
+      "apr": "available.local",
+      "may": "available.local",
+      "jun": "available.local",
+      "jul": "available.local",
+      "aug": "available.local",
+      "sep": "available.local",
+      "oct": "available.local",
+      "nov": "available.local",
+      "dec": "available.local",
+      "jan": "available.local",
+      "feb": "available.local"
+    }
+  }
+]
